@@ -9,7 +9,7 @@ PICTURESURL = 'http://om1fs9lbe.bkt.clouddn.com'
 
 # LOGO
 USER_LOGO_URL = PICTURESURL + '/avatar.jpeg'
-#USER_AVATAR_URL = PICTURESURL + '/avatar.jpeg-pic'
+USER_AVATAR_URL = PICTURESURL + '/avatar.jpeg-pic'
 
 
 PATH = 'content'
