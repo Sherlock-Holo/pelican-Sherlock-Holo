@@ -1,5 +1,5 @@
 Title: Shadowsocks-libev加密方式评测
-Date: 27.2.17
+Date: 2017.2.10
 
 madeye推出了AEAD加密:[github](https://github.com/shadowsocks/shadowsocks-libev/releases/tag/v3.0.0) 现在给上madeye给的[bandwidth](https://gist.github.com/madeye/c046fc35e10a82154f4697fb316a7ac6)测试代码做出的测试效果
 
