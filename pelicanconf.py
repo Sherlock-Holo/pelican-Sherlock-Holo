@@ -5,11 +5,11 @@ from __future__ import unicode_literals
 AUTHOR = 'Sherlock Holo'
 SITENAME = "Sherlock Holo's Blog"
 SITEURL = ''
-PICTURESURL = 'http://om1fs9lbe.bkt.clouddn.com'
+PICTURESURL = 'https://c1.staticflickr.com'
 
 # LOGO
-USER_LOGO_URL = PICTURESURL + '/avatar.jpeg'
-USER_AVATAR_URL = PICTURESURL + '/avatar.jpeg-pic'
+USER_LOGO_URL = PICTURESURL + '/1/603/33164043315_e7e630d5fc_m.jpg'
+USER_AVATAR_URL = PICTURESURL + '/1/603/33164043315_e7e630d5fc_m.jpg'
 
 
 PATH = 'content'
