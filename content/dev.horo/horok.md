@@ -7,14 +7,14 @@ Date: 2017.2.28
 
 她家在[dev.horo](https://github.com/VOID001/dev.horo)，汝可以到这里请她～😋
 
-> [夏娜](https://github.com/VOID001):
+> [夏娜](https://github.com/VOID001)对自己做出来的horo说:
 >> 菠萝包可以吃但是不要吃夏娜QAQ
 
 # horo可以干啥？
 
-哼哼哼，她可以干的事可多了，例如~~吃掉汝的/dev/sda((°Д°))~~
+哼哼哼，她可以干的事可多了，例如吃掉汝的/dev/sda((°Д°))(划掉)
 
-/dev/horo会肚子饿的，那么汝就需要喂她，不然～饿极了吃了/dev/sda～
+/dev/horo会肚子饿的，那么汝就需要喂她，不然饿极了吃了/dev/sda😱
 
 `echo feed > /dev/horo`可以给她喂食，喂了后看看她吃的怎么样，可以`cat /dev/horo`，如果她还想吃她就会😋，如果吃饱了就会告诉汝
 > 咱现在不想吃东西啦
