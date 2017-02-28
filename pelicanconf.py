@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Sherlock Holo'
-SITENAME = "Sherlock Holo's Blog"
+SITENAME = "夏洛克狼的传记"
 SITEURL = ''
 PICTURESURL = 'https://c1.staticflickr.com'
 
@@ -11,11 +11,11 @@ PICTURESURL = 'https://c1.staticflickr.com'
 USER_LOGO_URL = PICTURESURL + '/1/603/33164043315_e7e630d5fc_m.jpg'
 USER_AVATAR_URL = PICTURESURL + '/1/603/33164043315_e7e630d5fc_m.jpg'
 # CDN
-USE_CDN = True
+#USE_CDN = True
 
 # color
-PRIMARY_COLOR = 'teal'
-ACCENT_COLOR = 'Light Blue'
+#PRIMARY_COLOR = 'teal'
+#ACCENT_COLOR = 'Light Blue'
 
 
 PATH = 'content'
@@ -32,9 +32,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+# LINKS = (('Pelican', 'https://getpelican.com/'),
+#         ('You can modify those links in your config file', '#'),)
 
 # Social widget
 SOCIAL = (('Github', 'https://github.com/Sherlock-Holo'),
