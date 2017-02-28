@@ -11,11 +11,11 @@ PICTURESURL = 'https://c1.staticflickr.com'
 USER_LOGO_URL = PICTURESURL + '/1/603/33164043315_e7e630d5fc_m.jpg'
 USER_AVATAR_URL = PICTURESURL + '/1/603/33164043315_e7e630d5fc_m.jpg'
 # CDN
-#USE_CDN = True
+USE_CDN = True
 
 # color
-#PRIMARY_COLOR = 'Green'
-#ACCENT_COLOR = 'Green'
+PRIMARY_COLOR = 'teal'
+ACCENT_COLOR = 'Light Blue'
 
 
 PATH = 'content'
@@ -32,8 +32,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
+LINKS = (('Pelican', 'https://getpelican.com/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
          ('You can modify those links in your config file', '#'),)
 
