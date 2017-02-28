@@ -10,6 +10,12 @@ PICTURESURL = 'https://c1.staticflickr.com'
 # LOGO
 USER_LOGO_URL = PICTURESURL + '/1/603/33164043315_e7e630d5fc_m.jpg'
 USER_AVATAR_URL = PICTURESURL + '/1/603/33164043315_e7e630d5fc_m.jpg'
+# CDN
+#USE_CDN = True
+
+# color
+#PRIMARY_COLOR = 'Green'
+#ACCENT_COLOR = 'Green'
 
 
 PATH = 'content'
