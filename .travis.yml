@@ -1,0 +1,13 @@
+language: python
+
+notifications:
+    email: false
+
+python:
+    - "3.6"
+    
+# command to install dependencies
+
+install: "pip install pelican markdown"
+
+script: make html && make serve
