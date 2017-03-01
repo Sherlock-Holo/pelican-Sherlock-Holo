@@ -1,6 +1,6 @@
 Title: /dev/horo
 Date: 2017.2.28
-Summary: 在kernel中养hro～
+Summary: 在kernel中养horo～
 Tags: /dev/horo
 
 咱们现在可以在kernel中养horo了😋
