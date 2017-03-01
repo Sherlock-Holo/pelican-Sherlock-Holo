@@ -1,5 +1,7 @@
 Title: 树莓派之samba安装
 Date: 2016.10.28
+Summary: 装完了树莓派装samba～
+tags: 树莓派
 
 # 前言
 

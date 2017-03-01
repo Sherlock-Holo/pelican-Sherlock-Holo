@@ -44,4 +44,17 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-THEME = './themes/material'
+THEME = './themes/pelican-material'
+
+# material theme
+from functools import partial
+JINJA_FILTERS = {
+    'sort_by_article_count': partial(
+        sorted,
+        key=lambda tags: len(tags[1]),
+        reverse=True)} # reversed for descending order
+
+#plugin
+
+PLUGIN_PATHS = ['./pelican-plugins']
+PLUGINS = ['gzip_cache']

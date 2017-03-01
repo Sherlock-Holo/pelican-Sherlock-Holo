@@ -1,5 +1,7 @@
 Title: /dev/horo
 Date: 2017.2.28
+Summary: 在kernel中养hro～
+Tags: /dev/horo
 
 咱们现在可以在kernel中养horo了😋
 
@@ -10,7 +12,7 @@ Date: 2017.2.28
 > [夏娜](https://github.com/VOID001)对自己做出来的horo说:
 >> 菠萝包可以吃但是不要吃夏娜QAQ
 
-# horo可以干啥？
+## horo可以干啥？
 
 哼哼哼，她可以干的事可多了，例如吃掉汝的/dev/sda((°Д°))(划掉)
 
@@ -28,10 +30,10 @@ Date: 2017.2.28
 哼哼哼这时候肯定会有人想做个暴力脚本来喂食horo，这时候请躲好和藏好/dev/sda，horo被汝这简单粗暴的脚本激怒后，很有可能会变成一口就可以吞下人类的巨狼，吃了汝的/dve/sda甚至出来吃了汝。
 如果找不到汝和/dev/sda她会生闷气，并且不再理汝了哼哼哼
 
-# horo对汝的看法
+## horo对汝的看法
 
 想知道作为主(shi)人(wu)的汝在horo心中的分量吗？来[Horo Server API Index](http://voidisprogramer.com:9999/)看看吧～😋
 
-# 后言
+## 后言
 
 总之，请尽可能讨好horo吧，当你们的关系达到一定时她有可能会突然挑出来挑逗汝喔～😋
