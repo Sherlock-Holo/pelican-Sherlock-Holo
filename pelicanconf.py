@@ -3,13 +3,14 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Sherlock Holo'
-SITENAME = "夏洛克狼的传记"
+SITENAME = "夏洛克狼"
 SITEURL = ''
 PICTURESURL = 'https://c1.staticflickr.com'
 
 # LOGO
-USER_LOGO_URL = PICTURESURL + '/1/603/33164043315_e7e630d5fc_m.jpg'
-USER_AVATAR_URL = PICTURESURL + '/1/603/33164043315_e7e630d5fc_m.jpg'
+#USER_LOGO_URL = PICTURESURL + '/1/603/33164043315_e7e630d5fc_m.jpg'
+#USER_AVATAR_URL = PICTURESURL + '/1/603/33164043315_e7e630d5fc_m.jpg'
+
 # CDN
 #USE_CDN = True
 
