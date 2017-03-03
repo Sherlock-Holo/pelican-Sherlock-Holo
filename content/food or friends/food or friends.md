@@ -10,7 +10,7 @@ Summary: 夏洛克狼的朋友们～
 
 <img src="https://c1.staticflickr.com/4/3824/33126014016_79b60b8320_t.jpg" width="80" height="80" alt="96ebe2cbc5e2a21062204b8ce2153db2">
 
-[farseerfc](https://farseerfc.me/) 爱呼吸酱可是在日本的(博士生or)助教?，Arch Linux TU之一，同时拥有#archlinux-cn很多有都没有的名为老婆的人生赢家
+[farseerfc](https://farseerfc.me/) 爱呼吸酱可是在日本的(博士生or)助教?，Arch Linux TU之一，同时拥有#archlinux-cn很多人都没有的名为老婆的人生赢家
 
 <img src="https://c1.staticflickr.com/4/3693/33011063142_d37b744274_t.jpg" width="80" height="80" alt="3e3c1cb94b9ad3551cd9d43f2e52e105">
 
