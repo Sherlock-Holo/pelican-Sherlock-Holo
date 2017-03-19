@@ -1,7 +1,7 @@
 Title: VLAN
 Date: 2017.3.20
 Summary: openwrt的VLAN
-tag: openwrt
+tags: openwrt
 
 ## 关
 这个分组不使用这个接口
@@ -13,7 +13,7 @@ tag: openwrt
 这个接口被直接桥接到这个分组，即该端口作为本VLAN成员，进行二层交换
 
 # 路由器上的VLAN
-<img src="https://c2.staticflickr.com/4/3847/33375953332_49885c906e_o.png" width="1549" height="458" alt="2017-03-20 01-01-13 的屏幕截图">
+<img src="https://c2.staticflickr.com/4/3847/33375953332_49885c906e_o.png" width="1024" height="303">
 
 2看起来像是eth0.2，也就是wan的
 
