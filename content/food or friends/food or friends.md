@@ -1,12 +1,8 @@
 Title: food or friends?
-Date: 2017.2.28
+Date: 2017.4.23
 Summary: 夏洛克狼的朋友们～
 
 咱的朋友有很多的喔～
-
-<img src="https://c1.staticflickr.com/1/767/33126014756_f21f03262c_t.jpg" width="80" height="80">
-
-[ヨイツの賢狼ホロ](https://blog.yoitsu.moe/) 跟咱一样同样是狼～有人传闻咱和ヨイツの賢狼ホロ和另外一只狼计划着吃掉#archlinux-cn里面的食物😋(划掉)
 
 <img src="https://c1.staticflickr.com/4/3824/33126014016_79b60b8320_t.jpg" width="80" height="80" alt="96ebe2cbc5e2a21062204b8ce2153db2">
 
