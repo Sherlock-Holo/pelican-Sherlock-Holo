@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = ''
+SITEURL = 'sherlock-holo.github.io'
 RELATIVE_URLS = False
 
 FEED_DOMAIN = SITEURL
