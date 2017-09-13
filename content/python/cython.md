@@ -3,9 +3,9 @@ Date: 2017.9.13
 Summary: 了解到Cython
 tags: Python
 
-有个东西叫做`uvloop`, 使用了cython，最初以为用cython要写很多c代码所以不怎么在意这玩意。
+有个东西叫做`uvloop`, 他使用cython编写，是为了提高asyncio的性能，而咱最初以为用cython要写很多c代码，所以并不怎么在意这玩意。
 
-然后今晚突发奇想: cython能不能编译原生python代码? 于是随手搜了一下，看到一个[Cython 的基础](https://moonlet.gitbooks.io/cython-document-zh_cn/content/ch1-basic_tutorial.html)。
+然后今晚突发奇想: cython能不能编译纯python代码? 于是随手搜了一下，看到一个[Cython 的基础](https://moonlet.gitbooks.io/cython-document-zh_cn/content/ch1-basic_tutorial.html)。
 
 What??? 还真能编译??!! 这就上天了。立马测试了一下`print('test')`，然后写了个`setup.py`
 
