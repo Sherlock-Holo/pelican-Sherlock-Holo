@@ -1,5 +1,5 @@
 Title: food or friends?
-Date: 2017.4.23
+Date: 2017.10.22
 Summary: 夏洛克狼的朋友们～
 
 咱的朋友有很多的喔～
@@ -23,3 +23,7 @@ Summary: 夏洛克狼的朋友们～
 <img src="https://c1.staticflickr.com/4/3695/33011063402_8e95b3fd1d_t.jpg" width="80" height="80" alt="c1ed925b78c6b65d0abc61b5b29b0289">
 
 [FiveYellowMice](https://fiveyellowmice.com/) 江湖人称‘五黄🐭’，但究竟是什么物种没人知道因为TA有时候会变成了’五黄狼’😱
+
+<img src="https://c.disquscdn.com/uploads/users/24889/3562/avatar92.jpg" width="80" height="80">
+
+[静琴](https://skysmelody.org/)可爱(kou)的静琴~
